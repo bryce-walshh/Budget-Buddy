@@ -1,1 +1,3 @@
 # Budget-Buddy
+
+Budgeting App without having to rely on third parties or pay a expensive subscription fee...
